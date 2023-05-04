@@ -60,3 +60,8 @@ h1, h2, h3 {
     border-right: 1px solid lightgray;
 }
 
+@media screen and (max-width: 480px) {
+  body {
+    width: max-content;
+  }
+}
