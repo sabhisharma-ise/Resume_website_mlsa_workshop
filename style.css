@@ -61,7 +61,7 @@ h1, h2, h3 {
 }
 
 @media screen and (max-width: 480px) {
-  body {
-    width: max-content;
+  #mainLeft a {
+    width: 20%;
   }
 }
